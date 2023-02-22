@@ -22,4 +22,5 @@ setup(
         "nflows"
     ],
     dependency_links=[],
+    py_modules=[]
 )
